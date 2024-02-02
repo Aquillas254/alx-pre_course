@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Elon Musk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        p {
+            text-align: justify;
+            color: #555;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Tribute to Elon Musk</h1>
+    <img src="https://images.app.goo.gl/gB6FJjKjou4hZk8e9" alt="Elon Musk">
+    <p>
+        Elon Musk, a trailblazing entrepreneur and a modern-day visionary, has left an indelible mark on the world of
+        technology and innovation. Co-founder of Tesla, SpaceX, Neuralink, and The Boring Company, Musk is not just a
+        businessman but a driving force behind revolutionary ideas.
+    </p>
+
+    <p>
+        Musk's relentless pursuit of advancing space exploration with SpaceX, pushing the boundaries of electric
+        vehicles at Tesla, and exploring brain-machine interfaces with Neuralink showcases his commitment to pushing
+        humanity forward. His audacious goals, such as colonizing Mars, have sparked new possibilities and inspired
+        countless individuals to dream big.
+    </p>
+
+    <p>
+        Beyond his business ventures, Elon Musk is known for his unconventional approach, candid communication on
+        social media, and a willingness to take risks. His passion for sustainability and renewable energy has
+        reshaped the conversation around environmental responsibility in the corporate world.
+    </p>
+
+    <p>
+        Elon Musk's journey is a testament to the power of innovation, determination, and thinking beyond the
+        conventional. As we celebrate his achievements, we recognize a visionary whose impact extends far beyond the
+        realms of business.
+    </p>
+
+</body>
+
+</html>
